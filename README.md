@@ -5,7 +5,7 @@ This is a model developed by a **undergraduate student**.
 Which means that the model has **no** quality assurance.
 Please be careful if you need to use any content in this model.
 ## Usage
-
+With calculating the interest score matrix, train within the trainset and get result of the interest score, in order to predict the user in the incoming short period of time.
 ## Environment & Requirement
 ### Environment
 - python 3.10.7
